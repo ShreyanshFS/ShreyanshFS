@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="470" height="190" viewBox="0 0 470 190" role="img" aria-label="PredictIQ → RUL">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1020"/><stop offset="1" stop-color="#121a33"/></linearGradient><linearGradient id="bar" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fbbf24"/><stop offset="1" stop-color="#fbbf24" stop-opacity="0.2"/></linearGradient>
+<radialGradient id="gl" cx="1" cy="0" r="0.9"><stop offset="0" stop-color="#fbbf24" stop-opacity="0.2"/><stop offset="1" stop-color="#fbbf24" stop-opacity="0"/></radialGradient>
+<clipPath id="r"><rect width="470" height="190" rx="14"/></clipPath></defs>
+<style>text{font-family:'JetBrains Mono','Fira Code','SF Mono',Consolas,'Courier New',monospace}</style>
+<g clip-path="url(#r)"><rect width="470" height="190" fill="url(#bg)"/><rect width="470" height="190" fill="url(#gl)"/><rect width="5" height="190" fill="url(#bar)"/></g>
+<rect x="0.5" y="0.5" width="469" height="189" rx="14" fill="none" stroke="#ffffff" stroke-opacity="0.12"/>
+<text x="30" y="40" font-size="12" fill="#fbbf24" letter-spacing="2">PROJECT 04</text>
+<text x="30" y="64" font-size="18" font-weight="700" fill="#e6edf7">PredictIQ → RUL</text>
+<text x="30" y="88" font-size="13" fill="#b6c2dc">Predictive maintenance: classifies machine failure</text><text x="30" y="109" font-size="13" fill="#b6c2dc">from sensor data, then forecasts remaining useful</text><text x="30" y="130" font-size="13" fill="#b6c2dc">life.</text><g><rect x="30" y="142" width="66" height="26" rx="13" fill="#fbbf24" fill-opacity="0.12" stroke="#fbbf24" stroke-opacity="0.5"/><text x="63" y="159" text-anchor="middle" font-size="12" fill="#fbbf24">Python</text></g><g><rect x="104" y="142" width="111" height="26" rx="13" fill="#fbbf24" fill-opacity="0.12" stroke="#fbbf24" stroke-opacity="0.5"/><text x="160" y="159" text-anchor="middle" font-size="12" fill="#fbbf24">scikit-learn</text></g><g><rect x="223" y="142" width="103" height="26" rx="13" fill="#fbbf24" fill-opacity="0.12" stroke="#fbbf24" stroke-opacity="0.5"/><text x="275" y="159" text-anchor="middle" font-size="12" fill="#fbbf24">Time-series</text></g>
+<text x="444" y="40" text-anchor="end" font-size="16" fill="#fbbf24">↗</text>
+</svg>

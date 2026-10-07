@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="130" viewBox="0 0 960 130" role="img" aria-label="Keep building. Keep learning. Keep shipping.">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1020"/><stop offset="1" stop-color="#121a33"/></linearGradient><linearGradient id="q" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#38bdf8"/><stop offset="1" stop-color="#a78bfa"/></linearGradient><clipPath id="r"><rect width="960" height="130" rx="16"/></clipPath></defs>
+<style>text{font-family:'JetBrains Mono','Fira Code','SF Mono',Consolas,'Courier New',monospace}@keyframes sl{to{transform:translateX(-480px)}}@media (prefers-reduced-motion:reduce){path{animation:none!important}}</style>
+<g clip-path="url(#r)"><rect width="960" height="130" fill="url(#bg)"/>
+<path d="M0 92 Q120 70 240 92 T480 92 T720 92 T960 92 T1200 92 T1440 92 T1680 92 T1920 92 L1920 130 L0 130 Z" fill="#a78bfa" fill-opacity="0.35" style="animation:sl 9s linear infinite"/><path d="M-120 92 Q0 70 120 92 T480 92 T720 92 T960 92 T1200 92 T1440 92 T1680 92 T1920 92 L1920 130 L-120 130 Z" fill="#38bdf8" fill-opacity="0.5" style="animation:sl 6s linear infinite"/>
+<text x="480" y="52" text-anchor="middle" font-size="17" font-weight="600" fill="url(#q)">keep building  ·  keep learning  ·  keep shipping</text></g>
+<rect x="0.5" y="0.5" width="959" height="129" rx="16" fill="none" stroke="#ffffff" stroke-opacity="0.12"/>
+</svg>
