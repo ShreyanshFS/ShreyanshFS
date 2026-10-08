@@ -46,10 +46,6 @@ whoami:
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyanshFS&layout=compact&hide_border=true&bg_color=0b1020&title_color=38bdf8&text_color=c9d1d9"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShreyanshFS&bg_color=0b1020&color=38bdf8&line=a78bfa&point=34d399&area=true&area_color=38bdf8&hide_border=true&title_color=38bdf8" width="100%"/>
-</p>
-
 <img src="assets/l-connect.svg" width="100%" alt="connect"/>
 
 <p align="center">
