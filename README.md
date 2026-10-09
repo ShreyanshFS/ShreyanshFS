@@ -14,6 +14,7 @@
 whoami:
   name: Shreyansh Dwivedi
   role: Aspiring Software Engineer
+  education: sophomore, second-year student
   builds: practical projects, from AI vision apps to ML pipelines
   sharpening: core fundamentals, DSA in Java
   approach: build real things first, then refine the basics behind them
@@ -33,7 +34,16 @@ whoami:
   </tr>
 </table>
 
-<p align="center"><sub>More in <a href="https://github.com/ShreyanshFS?tab=repositories">repositories</a>, including DSA in Java and machine learning algorithms.</sub></p>
+<p align="center"><sub>More in my <a href="https://github.com/ShreyanshFS?tab=repositories">repositories</a>.</sub></p>
+
+<img src="assets/tm-l-learning.svg" width="100%" alt="learning"/>
+
+<table>
+  <tr>
+    <td><a href="https://github.com/ShreyanshFS/DSA-JAVA-"><img src="assets/tm-dsa.svg" alt="DSA in Java"/></a></td>
+    <td><a href="https://github.com/ShreyanshFS?tab=repositories&q=Machine-Learning"><img src="assets/tm-ml.svg" alt="ML algorithms journey"/></a></td>
+  </tr>
+</table>
 
 <img src="assets/tm-l-stack.svg" width="100%" alt="stack"/>
 
