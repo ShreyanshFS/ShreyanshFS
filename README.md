@@ -41,7 +41,7 @@ whoami:
 <table>
   <tr>
     <td><a href="https://github.com/ShreyanshFS/DSA-JAVA-"><img src="assets/tm-dsa.svg" alt="DSA in Java"/></a></td>
-    <td><a href="https://github.com/ShreyanshFS?tab=repositories&q=Machine-Learning"><img src="assets/tm-ml.svg" alt="ML algorithms journey"/></a></td>
+    <td><a href="https://github.com/ShreyanshFS/Machine-Learning-Algorithms-Practice.git"><img src="assets/tm-ml.svg" alt="ML algorithms journey"/></a></td>
   </tr>
 </table>
 
