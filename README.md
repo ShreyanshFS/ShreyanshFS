@@ -30,7 +30,7 @@ whoami:
   </tr>
   <tr>
     <td><a href="https://github.com/ShreyanshFS/FasalRakshak-AI-Powered-Crop-Loss-Evidence-Verification-System"><img src="assets/tm-p3.svg" alt="FasalRakshak"/></a></td>
-    <td><a href="https://github.com/ShreyanshFS?tab=repositories"><img src="assets/tm-p4.svg" alt="PredictIQ and RUL forecaster"/></a></td>
+    <td><a href="https://github.com/ShreyanshFS/PredictIQ"><img src="assets/tm-p4.svg" alt="PredictIQ and RUL forecaster"/></a></td>
   </tr>
 </table>
 
