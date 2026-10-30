@@ -36,6 +36,15 @@ whoami:
 
 <p align="center"><sub>More in my <a href="https://github.com/ShreyanshFS?tab=repositories">repositories</a>.</sub></p>
 
+<img src="assets/tm-l-opensource.svg" width="100%" alt="open source"/>
+
+| Repository | My contribution | PR | Status |
+|---|---|---|---|
+| [**narrate-ai**](https://github.com/PSIT-GDGOC/narrate-ai) | Groq API error handling with retry and exponential backoff | [#31](https://github.com/PSIT-GDGOC/narrate-ai/pull/31) | ![merged](https://img.shields.io/badge/-merged-8957e5?style=flat-square&logo=github&logoColor=white) |
+| [**narrate-ai**](https://github.com/PSIT-GDGOC/narrate-ai) | Vitest setup plus unit tests for JSON parsing and voice scoring | [#32](https://github.com/PSIT-GDGOC/narrate-ai/pull/32) | ![merged](https://img.shields.io/badge/-merged-8957e5?style=flat-square&logo=github&logoColor=white) |
+| [**narrate-ai**](https://github.com/PSIT-GDGOC/narrate-ai) | Manifest V3 Chrome extension that prefills story text | [#20](https://github.com/PSIT-GDGOC/narrate-ai/pull/20) | ![merged](https://img.shields.io/badge/-merged%20%26%20reverted-6e7681?style=flat-square&logo=github&logoColor=white) |
+| [**Ticket-Booking-System**](https://github.com/PSIT-GDGOC/Ticket-Booking-System) | Booking confirmation emails, double-booking prevention for seats, protected cancellation endpoint | [#21](https://github.com/PSIT-GDGOC/Ticket-Booking-System/pull/21) | ![merged](https://img.shields.io/badge/-merged-8957e5?style=flat-square&logo=github&logoColor=white) |
+
 <img src="assets/tm-l-learning.svg" width="100%" alt="learning"/>
 
 <table>
